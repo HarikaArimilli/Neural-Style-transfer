@@ -1,2 +1,3 @@
 # Neural-Style-transfer
-Neural style transfer is an technique which is  used to take two images a content image and a style image and combine them together so that output image looks like the content image, but “painted” in the style of the style  image.
+ implemented model using pretrained VGG19 network to extract features from a style image and we create new target image which  contain desired content and style components,i.e
+ objects and their arrangement should be similar to that of content image and style, colors, and textures are similar to that of the style image
